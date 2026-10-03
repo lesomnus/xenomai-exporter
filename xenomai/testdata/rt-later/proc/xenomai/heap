@@ -1,0 +1,6 @@
+    TOTAL      FREE  NAME
+  4194304   4134848  system heap
+   262144    262000  shared heap
+   262144    261712  private heap[3510]
+   262144    261680  private heap[3512]
+   262144    261568  private heap[3492]

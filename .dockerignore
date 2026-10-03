@@ -1,0 +1,9 @@
+*
+!cmd
+cmd/version/version.g.go
+!scripts
+!metrics
+!xenomai
+!go.mod
+!go.sum
+!main.go

@@ -1,0 +1,4 @@
+gravity: irq=0 kernel=3350 user=3350
+ devices: timer=lapic-deadline, clock=<Linux clocksource>
+watchdog: off
+  ticks: 4604484286525 (0430 10a6783d)

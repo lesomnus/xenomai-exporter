@@ -1,0 +1,3 @@
+# Reads the fixture, so it runs anywhere: `go run . -c xenomai-exporter.yaml`.
+# Remove root_path to read the real /proc/xenomai.
+root_path: ./xenomai/testdata/rt

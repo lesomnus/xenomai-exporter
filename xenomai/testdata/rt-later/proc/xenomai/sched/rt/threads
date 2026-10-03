@@ -1,0 +1,6 @@
+CPU  PID    PRI      PERIOD     NAME
+  1  590     98      -          rtnet-stack
+  2  3510    75      -          controller_rt
+  7  3742    40      -          hday_ecat_check
+  6  3743    85      -          hday_ecat_rt
+  8  3869    80      -          holiday_sdk_rt

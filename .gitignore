@@ -1,0 +1,4 @@
+cmd/version/version.g.go
+build
+go.work
+go.work.sum
